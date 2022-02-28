@@ -1,5 +1,13 @@
 body {
 	font-family: 'Noto Sans Mono', monospace;
+    font-size: 16px;
+}
+
+#terminal {
+    width: 80ex;
+    height: 25em;
+
+
 }
 
 p {
